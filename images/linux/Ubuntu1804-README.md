@@ -1,0 +1,255 @@
+# Ubuntu 18.04.3 LTS
+The following software is installed on machines with the 20191202.1 update.
+***
+- 7-Zip 16.02
+- Ansible (ansible 2.9.1)
+- AzCopy (azcopy 7.3.0-netcore)
+- Azure CLI (azure-cli                         2.0.77)
+- Azure CLI (azure-devops                      0.16.0)
+- Basic CLI:
+  - curl
+  - dnsutils
+  - file
+  - ftp
+  - iproute2
+  - iputils-ping
+  - jq
+  - libcurl3
+  - libicu55
+  - libunwind8
+  - locales
+  - netcat
+  - openssh-client
+  - rsync
+  - shellcheck
+  - sudo
+  - telnet
+  - time
+  - unzip
+  - wget
+  - zip
+  - tzdata
+- AWS CLI (aws-cli/1.16.293 Python/2.7.15+ Linux/5.0.0-1025-azure botocore/1.13.29)
+- build-essential
+- Clang 6.0 (clang version 6.0.1-svn334776-1~exp1~20190309042703.125 (branches/release_60))
+- CMake (cmake version 3.12.4)
+- Docker Compose (docker-compose version 1.22.0, build f46880fe)
+- Docker (Docker version 3.0.8, build 2355349d)
+- Docker (Docker version 3.0.8, build 2355349d)
+- .NET Core SDK:
+  - 3.0.101
+  - 3.0.100
+  - 2.2.402
+  - 2.2.401
+  - 2.2.301
+  - 2.2.300
+  - 2.2.207
+  - 2.2.206
+  - 2.2.205
+  - 2.2.204
+  - 2.2.203
+  - 2.2.202
+  - 2.2.110
+  - 2.2.109
+  - 2.2.108
+  - 2.2.107
+  - 2.2.106
+  - 2.2.105
+  - 2.2.104
+  - 2.2.103
+  - 2.2.102
+  - 2.2.101
+  - 2.2.100
+  - 2.1.802
+  - 2.1.801
+  - 2.1.701
+  - 2.1.700
+  - 2.1.607
+  - 2.1.606
+  - 2.1.605
+  - 2.1.604
+  - 2.1.603
+  - 2.1.602
+  - 2.1.510
+  - 2.1.509
+  - 2.1.508
+  - 2.1.507
+  - 2.1.506
+  - 2.1.505
+  - 2.1.504
+  - 2.1.503
+  - 2.1.502
+  - 2.1.500
+  - 2.1.403
+  - 2.1.402
+  - 2.1.401
+  - 2.1.302
+  - 2.1.301
+  - 2.1.300
+- Erlang (Erlang (SMP,ASYNC_THREADS,HIPE) (BEAM) emulator version 10.5.6)
+- Firefox (Mozilla Firefox 70.0.1)
+- GNU C++ 7.4.0
+- Git (2.24.0)
+- Git Large File Storage (LFS) (2.9.1)
+- Go 1.11 (go version go1.11.12 linux/amd64)
+- Go 1.12 (go version go1.12.7 linux/amd64)
+- Go 1.13 (go version go1.13 linux/amd64)
+- Google Chrome (Google Chrome 78.0.3904.108 )
+- Google Cloud SDK (272.0.0)
+- Haskell Cabal (cabal-install version 2.0.0.1
+compiled using version 2.0.1.1 of the Cabal library )
+- Haskell Cabal (cabal-install version 2.2.0.0
+compiled using version 2.2.0.1 of the Cabal library )
+- Haskell Cabal (cabal-install version 2.4.1.0
+compiled using version 2.4.1.0 of the Cabal library )
+- Haskell Cabal (cabal-install version 3.0.0.0
+compiled using version 3.0.0.0 of the Cabal library )
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.0.2)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.2.2)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.4.4)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.6.2)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.6.3)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.6.4)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.6.5)
+- GHC (The Glorious Glasgow Haskell Compilation System, version 8.8.1)
+- Haskell Stack (Version 2.1.3, Git revision 636e3a759d51127df2b62f90772def126cdf6d1f (7735 commits) x86_64 hpack-0.31.2)
+- Heroku (heroku/7.35.0 linux-x64 node-v12.13.0)
+- HHVM (HipHop VM 4.33.0 (rel))
+- ImageMagick
+- Azul Zulu OpenJDK (7) (openjdk version "1.7.0_242")
+- Azul Zulu OpenJDK (8) (openjdk version "1.8.0_232")
+- Azul Zulu OpenJDK (11) (openjdk version "11.0.5" 2019-10-15 LTS)
+- Azul Zulu OpenJDK (12) (openjdk version "12.0.2" 2019-07-16)
+- Ant (Apache Ant(TM) version 1.10.5 compiled on March 28 2019)
+- Gradle 5.6.2
+- Maven (Apache Maven 3.6.1 (d66c9c0b3152b2e69ee9bac180bb8fcc8e6af555; 2019-04-04T19:00:29Z))
+- kubectl (Client Version: v1.16.0)
+- helm (Client: v2.14.3+g0e7f3b6)
+- Leiningen (Leiningen 2.9.1 on Java 1.8.0_222 OpenJDK 64-Bit Server VM)
+- Mercurial (Mercurial Distributed SCM (version 4.5.3))
+- Miniconda (conda 4.7.12)
+- Mono (Mono JIT compiler version 6.4.0.198 (tarball Tue Sep 24 01:21:28 UTC 2019))
+- MySQL (mysql  Ver 14.14 Distrib 5.7.28, for Linux (x86_64) using  EditLine wrapper)
+- MySQL Server (user:root password:root)
+- MS SQL Server Client Tools
+- Node.js (v12.13.1)
+- Grunt (grunt-cli v1.2.0)
+- Gulp (CLI version: 2.2.0
+Local version: Unknown)
+- n (6.1.3)
+- Parcel (1.12.4)
+- TypeScript (Version 3.7.2)
+- Webpack (4.41.2)
+- Webpack CLI (3.3.10)
+- Yarn (1.19.2)
+- PhantomJS (2.1.1)
+- PHP 7.1 (PHP 7.1.33-2+ubuntu18.04.1+deb.sury.org+1 (cli) (built: Nov 28 2019 07:42:07) ( NTS ))
+- PHP 7.2 (PHP 7.2.25-1+ubuntu18.04.1+deb.sury.org+1 (cli) (built: Nov 28 2019 07:42:26) ( NTS ))
+- PHP 7.3 (PHP 7.3.12-1+ubuntu18.04.1+deb.sury.org+1 (cli) (built: Nov 28 2019 07:37:16) ( NTS ))
+- Composer  (Composer version 1.9.1 2019-11-01 17:20:17)
+- PHPUnit (PHPUnit 7.5.17 by Sebastian Bergmann and contributors.)
+- Pollinate
+- Powershell (PowerShell 6.2.3)
+- rustup (1.20.2)
+- rust (1.39.0)
+- cargo (1.39.0)
+- rustfmt (1.4.8-stable)
+- clippy (0.0.212)
+- rustdoc (1.39.0)
+- bindgen (execute
+the
+0.52.0)
+- cbindgen (0.10.0)
+- sbt (1.3.4)
+- Sphinx Open Source Search Server
+- Subversion (svn, version 1.9.7 (r1800392))
+- Terraform (Terraform v0.12.16)
+- Vcpkg 2019.09.12-unknownhash
+- Zeit Now CLI (16.6.0)
+- Google Repository 58
+- Google Play services 49
+- Google APIs 24
+- Google APIs 23
+- Google APIs 22
+- Google APIs 21
+- CMake 3.6.4111459
+- Android Support Repository 47.0.0
+- Android SDK Platform-Tools 29.0.5
+- Android SDK Platform 29
+- Android SDK Platform 28
+- Android SDK Platform 27
+- Android SDK Platform 26
+- Android SDK Platform 25
+- Android SDK Platform 24
+- Android SDK Platform 23
+- Android SDK Platform 22
+- Android SDK Platform 21
+- Android SDK Platform 19
+- Android SDK Platform 17
+- Android SDK Patch Applier v4
+- Android SDK Build-Tools 29.0.2
+- Android SDK Build-Tools 29.0.0
+- Android SDK Build-Tools 28.0.3
+- Android SDK Build-Tools 28.0.2
+- Android SDK Build-Tools 28.0.1
+- Android SDK Build-Tools 28.0.0
+- Android SDK Build-Tools 27.0.3
+- Android SDK Build-Tools 27.0.2
+- Android SDK Build-Tools 27.0.1
+- Android SDK Build-Tools 27.0.0
+- Android SDK Build-Tools 26.0.3
+- Android SDK Build-Tools 26.0.2
+- Android SDK Build-Tools 26.0.1
+- Android SDK Build-Tools 26.0.0
+- Android SDK Build-Tools 25.0.3
+- Android SDK Build-Tools 25.0.2
+- Android SDK Build-Tools 25.0.1
+- Android SDK Build-Tools 25.0.0
+- Android SDK Build-Tools 24.0.3
+- Android SDK Build-Tools 24.0.2
+- Android SDK Build-Tools 24.0.1
+- Android SDK Build-Tools 24.0.0
+- Android SDK Build-Tools 23.0.3
+- Android SDK Build-Tools 23.0.2
+- Android SDK Build-Tools 23.0.1
+- Android SDK Build-Tools 22.0.1
+- Android SDK Build-Tools 21.1.2
+- Android SDK Build-Tools 20.0.0
+- Android SDK Build-Tools 19.1.0
+- Android SDK Build-Tools 17.0.0
+- Android NDK 20.1.5948944
+- Az Module (1.0.0)
+- Az Module (1.6.0)
+- Az Module (2.3.2)
+- Az Module (2.6.0)
+- Cached container images
+  - node:10 (Digest: sha256:be69034700545030c110f67ae22e0584ddd59eeb2af81e4bd7f16f3ba5fa93a6)
+  - node:12 (Digest: sha256:88ee7d2a5e18d359b4b5750ecb50a9b238ab467397c306aeb9955f4f11be44ce)
+  - buildpack-deps:stretch (Digest: sha256:5b4b7ee0ae71108d352f8f484b3bc113780068dad21bef7458ac3dd5211cc044)
+  - debian:9 (Digest: sha256:99768ac883dc7d4f9c8f55dade9abb39afc1a3d737a8457dc5735ef868288cef)
+  - debian:8 (Digest: sha256:9eaf4a70aeddf435bebc619383f3e3a178b8ad8c1f3948319cdf74b65918d156)
+  - node:12-alpine (Digest: sha256:b556d8910b851c27c5c8922eeb55d94fe6dbaf878d24bf0c9a8c32ba21cd091a)
+  - node:10-alpine (Digest: sha256:da8161962573bd6ab16b54a9bfa81a263458e5199074d0678d0556376b22bd22)
+  - alpine:3.10 (Digest: sha256:c19173c5ada610a5989151111163d28a67368362762534d8a8121ce95cf2bd5a)
+  - jekyll/builder:latest (Digest: sha256:875de39aa06300c749e26a79f39cdfa31404e4f2dbd2953cd4ebb0442bffda9e)
+  - alpine:3.9 (Digest: sha256:7746df395af22f04212cd25a92c1d6dbc5a06a0ca9579a229ef43008d4d1302a)
+  - alpine:3.7 (Digest: sha256:8421d9a84432575381bfabd248f1eb56f3aa21d9d7cd2511583c68c9b7511d10)
+  - alpine:3.8 (Digest: sha256:04696b491e0cc3c58a75bace8941c14c924b9f313b03ce5029ebbc040ed9dcd9)
+  - mcr.microsoft.com/azure-pipelines/node8-typescript:latest (Digest: sha256:e52e60b9f71183969830a3664279b5d8c799b4b0ec2c25a0686f7c02f6a9669a)
+- Python:
+  - Python 2.7.16
+  - Python 3.5.7
+  - Python 3.6.9
+  - Python 3.7.5
+  - Python 3.8.0
+- Ruby:
+  - Ruby 2.4.6
+  - Ruby 2.5.5
+  - Ruby 2.6.3
+- Python (Python 2.7.15+)
+- pip (pip 9.0.1 from /usr/lib/python2.7/dist-packages (python 2.7))
+- Python3 (Python 3.6.9)
+- pip3 (pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6))
+- PyPy2 ([PyPy 7.1.0 with GCC 6.2.0 20160901])
+- PyPy3 ([PyPy 7.2.0 with GCC 6.2.0 20160901])
+- Boost C++ Libraries 1.69.0
